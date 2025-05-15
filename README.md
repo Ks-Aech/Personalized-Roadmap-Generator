@@ -49,8 +49,8 @@ Users input a topic (e.g., “Data Science” or “ReactJS”), and the system 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/personalized-learning-roadmap.git
-cd personalized-learning-roadmap
+git clone https://github.com/Ks-Aech/Personalized-Roadmap-Generator.git
+cd personalized-roadmap-generator
 ```
 
 ### 2. Install dependencies
